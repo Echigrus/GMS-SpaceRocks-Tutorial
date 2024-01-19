@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
+    {"name":"Наборы плиток","order":2,"path":"folders/Наборы плиток.yy",},
+    {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
+    {"name":"Пути","order":4,"path":"folders/Пути.yy",},
+    {"name":"Скрипты","order":5,"path":"folders/Скрипты.yy",},
+    {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
+    {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
+    {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
+    {"name":"Объекты","order":9,"path":"folders/Объекты.yy",},
+    {"name":"Румы","order":10,"path":"folders/Румы.yy",},
+    {"name":"Последовательности","order":11,"path":"folders/Последовательности.yy",},
+    {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
+    {"name":"Примечания","order":13,"path":"folders/Примечания.yy",},
+    {"name":"Расширения","order":14,"path":"folders/Расширения.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_rock","order":3,"path":"objects/obj_rock/obj_rock.yy",},
+    {"name":"obj_game","order":2,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
