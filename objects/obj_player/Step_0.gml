@@ -1,5 +1,6 @@
 /// @description Вставьте описание здесь
 // Вы можете записать свой код в этом редакторе
+move_wrap(true, true, 0);
 
 if keyboard_check(vk_up)
 {
@@ -11,16 +12,17 @@ if keyboard_check(vk_down)
 }
 if keyboard_check(vk_left)
 {
-        image_angle += 4;
+    image_angle += 4;
 }
 if keyboard_check(vk_right)
 {
-        image_angle -= 4;
+    image_angle -= 4;
 }
-
-move_wrap(true, true, 0);
-
 if mouse_check_button_pressed(mb_left)
 {
     instance_create_layer(x, y, "Instances", obj_bullet);
+}
+if keyboard_check(vk_escape)
+{
+	room_goto(rm_menu);	
 }
